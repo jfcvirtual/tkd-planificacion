@@ -1,0 +1,152 @@
+{
+ "_nota": "Microciclos semanales guía de cada etapa (plantilla de Justo Fuentes).",
+ "EPG": {
+  "hoja": "MICROCICLO_EPG",
+  "titulo": "ETAPA PREPARATORIA GENERAL",
+  "etapa": "Preparatoria General",
+  "correlacion": "Correlación General:Especial = 1:1 (Para cada entrenamiento general debe haber un entrenamiento especial)",
+  "dias": [
+   {
+    "dia": "LUNES",
+    "manana": "Escaleras tandas de 5 minutos",
+    "noche": "Paleta o bolinchón, descansar a 120 ppm"
+   },
+   {
+    "dia": "MARTES",
+    "manana": "Libre",
+    "noche": "Saco blando, descansar a 120 ppm"
+   },
+   {
+    "dia": "MIÉRCOLES",
+    "manana": "Fartlek (juego de velocidades)",
+    "noche": "Paleta o bolinchón, descansar a 120 ppm"
+   },
+   {
+    "dia": "JUEVES",
+    "manana": "Libre",
+    "noche": "Combate condicionado utilizando los sistemas de patadas, descansar a 120 ppm"
+   },
+   {
+    "dia": "VIERNES",
+    "manana": "Fartlek (juego de velocidades)",
+    "noche": "Paleta o bolinchón, descansar a 120 ppm"
+   },
+   {
+    "dia": "SÁBADO",
+    "manana": "Pesa, Fuerza Resistencia: Método de Repeticiones: Ejecutar ejercicios con un peso que se puedan realizar más de 30 repeticiones y no más de 33 repeticiones",
+    "noche": "Libre"
+   },
+   {
+    "dia": "DOMINGO",
+    "manana": "Cross o Fartlek (juego de velocidades)",
+    "noche": "Libre"
+   }
+  ],
+  "pesas": {
+   "titulo": "PESAS - FUERZA RESISTENCIA: MÉTODO DE REPETICIONES",
+   "texto": "Trabajar con un peso con el que se puedan realizar alrededor de 30 repeticiones (según Dimitar Gurkov, la repetición número 30 es la que entrena la fuerza resistencia)."
+  },
+  "canilleras": false
+ },
+ "EPE": {
+  "hoja": "MICROCICLO_EPE",
+  "titulo": "ETAPA PREPARATORIA ESPECIAL",
+  "etapa": "Preparatoria Especial",
+  "correlacion": "Correlación General:Especial = 1:1.5 (Para cada entrenamiento general debe haber 1.5 entrenamiento especial)",
+  "dias": [
+   {
+    "dia": "LUNES",
+    "manana": "Carreras de 3 minutos, a 160-175 ppm /descansar a 120ppm, 3 carreras y aumentar de 1 a 3 semanales",
+    "noche": "Paleta o bolinchón, descansar a 120 ppm, combinaciones personales"
+   },
+   {
+    "dia": "MARTES",
+    "manana": "Libre",
+    "noche": "Canilleras medio mes 2% y el otro medio mes 3%, descansar a 120ppm"
+   },
+   {
+    "dia": "MIÉRCOLES",
+    "manana": "Carreras de 3 minutos PATEANDO, a 160-175 ppm /descansar a 120ppm, 3 carreras y aumentar de 1 a 3 semanales",
+    "noche": "Combate libre"
+   },
+   {
+    "dia": "JUEVES",
+    "manana": "Libre",
+    "noche": "Paleta o bolinchón, descansar a 120 ppm, combinaciones personales"
+   },
+   {
+    "dia": "VIERNES",
+    "manana": "Trote suave a 150-160 ppm, aumentar 3 minutos semanal",
+    "noche": "Saco semiduro, patear series a 170-180 ppm, descansar a 120 ppm"
+   },
+   {
+    "dia": "SÁBADO",
+    "manana": "Carreras de 3 minutos PATEANDO, a 160-175 ppm /descansar a 120ppm, 3 carreras y aumentar de 1 a 3 semanales",
+    "noche": "Combate libre"
+   },
+   {
+    "dia": "DOMINGO",
+    "manana": "Pesas Fuerza Máxima, ver recuadro. NOTA: NO SE PUEDE HACER FUERZA MÁXIMA SI NO SE HA HECHO METODO DE REPETICIONES NO MENOS DE 2 MESES",
+    "noche": "Libre"
+   }
+  ],
+  "pesas": {
+   "titulo": "PESAS - MÉTODO DE FUERZA MÁXIMA (una serie por paso)",
+   "pasos": [
+    9,
+    6,
+    3,
+    1,
+    3,
+    6,
+    9
+   ],
+   "nota": "NOTA: no se puede hacer fuerza máxima si no se ha hecho el método de repeticiones por no menos de 2 meses."
+  },
+  "canilleras": true
+ },
+ "EPC": {
+  "hoja": "MICROCICLO_EPC",
+  "titulo": "ETAPA PRECOMPETITIVA",
+  "etapa": "Precompetitiva",
+  "correlacion": "Correlación General:Especial = 1:1.5 (Para cada entrenamiento general debe haber 1.5 entrenamiento especial)",
+  "dias": [
+   {
+    "dia": "LUNES",
+    "manana": "Carreras de 100, 200 y 400, descansar a 120ppm",
+    "noche": "Paleta o bolinchón, descansar a 120 ppm, combinaciones personales"
+   },
+   {
+    "dia": "MARTES",
+    "manana": "Libre",
+    "noche": "Canilleras un mes 3% y el otro medio mes 2%, descansar a 120ppm"
+   },
+   {
+    "dia": "MIÉRCOLES",
+    "manana": "Carreras de 100, 200 y 400 PATEANDO, descansar a 120ppm",
+    "noche": "Combate libre"
+   },
+   {
+    "dia": "JUEVES",
+    "manana": "Libre",
+    "noche": "Paleta o bolinchón, descansar a 120 ppm, combinaciones personales"
+   },
+   {
+    "dia": "VIERNES",
+    "manana": "Trote suave a 150-160 ppm",
+    "noche": "Saco duro, patear series a 170-180 ppm, descansar a 120 ppm"
+   },
+   {
+    "dia": "SÁBADO",
+    "manana": "Carreras de 3 minutos PATEANDO, a 160-175 ppm /descansar a 120ppm",
+    "noche": "Combate libre"
+   },
+   {
+    "dia": "DOMINGO",
+    "manana": "Libre",
+    "noche": "Libre"
+   }
+  ],
+  "canilleras": true
+ }
+}

@@ -1,0 +1,6 @@
+Option Explicit
+
+' Al abrir el libro se prepara y se muestra el MENÚ
+Private Sub Workbook_Open()
+    modMenu.IniciarLibro
+End Sub

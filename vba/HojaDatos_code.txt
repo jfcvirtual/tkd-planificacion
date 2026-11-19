@@ -1,0 +1,6 @@
+Option Explicit
+
+' Si se cambia a mano el tipo de ciclo (celda B4), se ajustan las filas visibles del plan
+Private Sub Worksheet_Change(ByVal Target As Range)
+    If Not Intersect(Target, Me.Range("B4")) Is Nothing Then modMenu.AjustarFilasPlan
+End Sub
